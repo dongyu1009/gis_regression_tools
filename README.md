@@ -49,14 +49,24 @@ After you set up, you need to add python.exe to PATH variable.
 See https://www.cnblogs.com/wang985850293/p/6264714.html
 
 ==============================
+
+
 学生董昱
+
 中国科学院地理科学与资源研究所
+
 中国科学院大学
+
 电话：15110090085
+
 邮箱：dongyu1009@163.com
 
 Dong Yu, A Post-Graduate Student From
+
 Institute of Geographic Sciences and Natural Resources Research,Chinese Academy of Sciences
+
 University of Chinese Academy of Sciences
+
 Tel: +86 15110090085
+
 E-mail: dongyu1009@163.com
