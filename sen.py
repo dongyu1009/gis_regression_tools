@@ -33,9 +33,15 @@ y = w * x + noise
 # 加入10%的异常值,最后20个值称为异常值
 y[-20:] += -20 * x[-20:]
 
+print x
+print y 
+
 X = x[:, np.newaxis]
+print X
 plt.plot(X, y, 'k+', mew=2, ms=8)
 line_x = np.array([-3, 3])
+
+print line_x
 
 for name, estimator in estimators:
     t0 = time.time()
